@@ -1,5 +1,7 @@
+[![Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg](https://i.postimg.cc/QCGCtq8t/Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg)](https://postimg.cc/tZkpvWVQ)
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">A passionate web developer</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
 
