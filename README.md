@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
-<p align="left"> <a href="https://twitter.com/victoriageeks" target="blank"><img src="https://img.shields.io/twitter/follow/victoriageeks?logo=twitter&style=for-the-badge" alt="victoriageeks" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
