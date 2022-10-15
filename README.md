@@ -53,7 +53,7 @@
 <h3 align="center">IDE's & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,git,pug,figma" />
   </a>
 </p>
 
