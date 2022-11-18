@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **React Js.**
 
 - 📌 I'm based in **Spain.**
 
