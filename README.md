@@ -20,41 +20,7 @@
 <a href="https://instagram.com/victoriageeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victoriageeks" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Skills ✨</h2>
-<h3 align="center">Markup Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-  </a>
-</p>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript" />
-  </a>
-</p>
-
-<h3 align="center">Frameworks</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,vue" />
-  </a>
-</p>
-
-<h3 align="center">Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
-</p>
-
-<h3 align="center">IDE's & Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,git,pug" />
-  </a>
-</p>
 
 <h2></h2>
 
