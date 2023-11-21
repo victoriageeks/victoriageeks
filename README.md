@@ -5,13 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
 
-- 🌱 I’m currently learning **React Js.**
+- 🌱 I’m currently learning **Linux**
 
 - 📌 I'm based in **Spain.**
 
 - 📫 How to reach me **victoriageeks@gmail.com**
 
-- 🪄 Fun fact **when I was a child I wanted to be a singer**
 
 <br><br><br>
 <h2 align="center">Connect with me:</h2>
