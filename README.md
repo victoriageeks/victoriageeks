@@ -1,4 +1,4 @@
-[![Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg](https://i.postimg.cc/QCGCtq8t/Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg)](https://postimg.cc/tZkpvWVQ)
+[![Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg]([https://i.postimg.cc/QCGCtq8t/Beige-Simple-Elegant-Personal-Linked-In-Banner.jpg](https://i.postimg.cc/Qxp5cKcB/Victoria-Geeks.jpg))](https://postimg.cc/tZkpvWVQ)
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">Web designer</h3>
 <br>
