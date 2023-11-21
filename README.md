@@ -1,6 +1,6 @@
 [![Victoria-Geeks.jpg](https://i.postimg.cc/Qxp5cKcB/Victoria-Geeks.jpg)](https://postimg.cc/Ln8npXCR)
 <h1 align="center">Hi 👋, I'm Victoria</h1>
-<h3 align="center">Web designer</h3>
+<h3 align="center">cybersecurity student</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
