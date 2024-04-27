@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- ✨ Victoria's blog **https://victoriageeks.simple.ink/**
-
 - 📫 How to reach me **victoriageeks@gmail.com**
 
 
