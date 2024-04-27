@@ -1,6 +1,6 @@
 [![Victoria-Geeks.jpg](https://i.postimg.cc/Qxp5cKcB/Victoria-Geeks.jpg)](https://postimg.cc/Ln8npXCR)
 <h1 align="center">Hi 👋, I'm Victoria</h1>
-<h3 align="center">cybersecurity student</h3>
+<h3 align="center">Web developer & ASIR student</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/5f211739cf588911b0255c44e3f18d8a/tumblr_mof4dbWK491r922azo1_500.gif">
 
